@@ -7,7 +7,7 @@ I also have experience developing complete applications, including non-relationa
 
 - 📫 Reach me @ **matheuscmanoel@gmail.com**
 
-- 📄 Know about my experiences, check out my [resume](https://drive.google.com/file/d/1lQShWPH9Kxxj7YUZMisdCZeWEBKjUbAI/view?usp=sharing)
+- 📄 Know about my experiences, check out my [resume](https://drive.google.com/file/d/1s_sB60wtrO9o54kdElbUlkieXbHGyLbd/view?usp=sharing)
 
 - ⚡ I'm one of the 3 pt-BR translators for [guake](https://github.com/Guake/guake), a python based dropdown terminal made for the GNOME desktop environment used by thousands of users.
 
