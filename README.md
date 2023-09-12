@@ -3,7 +3,7 @@
 
 I also have experience developing complete applications, including non-relational databases with MongoDB, Rest APIs with Python and Express, CI/CD pipelines with Jenkins and Drone, and containerization with Docker.
 
-- 🔭 I’m currently working to empower amateur owners and tenants by giving them the tools and precise information for a better Post Contract experience @ **QuintoAndar**.
+- 🔭 I’m currently working @ **Google**.
 
 - 📫 Reach me @ **matheuscmanoel@gmail.com**
 
